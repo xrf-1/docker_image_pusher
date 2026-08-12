@@ -8,4 +8,6 @@
 #postgres:13.2-alpine
 #ghcr.io/opendatadiscovery/odd-collector:latest
 #mysql/mysql-server:latest
-gvenzl/oracle-xe:21-slim-faststart
+#gvenzl/oracle-xe:21-slim-faststart
+mcr.microsoft.com/mssql/server:2022-latest
+postgres:17
